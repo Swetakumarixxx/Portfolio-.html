@@ -109,7 +109,7 @@ sweta-kumari9811
     <section>
       <h2>Education</h2>
       <div class="card">
-        <p><strong>B.Tech in Information Technology</strong><br>Asansol Engineering College, West Bengal<br>Currently in 4th Semester</p>
+        <p><strong>B.Tech in Information Technology</strong><br>Asansol Engineering College, West Bengal<br>2023-2027</p>
       </div>
       <div class="card">
         <p><strong>12th Grade</strong><br>Priyadarshini Public School</p>
